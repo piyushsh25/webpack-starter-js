@@ -16,7 +16,7 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _joke__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./joke */ \"./src/joke.js\");\n\r\nconsole.log((0,_joke__WEBPACK_IMPORTED_MODULE_0__[\"default\"])())\n\n//# sourceURL=webpack://webpack/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _joke__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./joke */ \"./src/joke.js\");\n\nconsole.log((0,_joke__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\n\n//# sourceURL=webpack://webpack/./src/index.js?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _jok
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nfunction joke(){\r\n    return \"Heyyyy\"\r\n}\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (joke);\n\n//# sourceURL=webpack://webpack/./src/joke.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nfunction joke() {\n  return \"Heyyyy\";\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (joke);\n\n//# sourceURL=webpack://webpack/./src/joke.js?");
 
 /***/ })
 
